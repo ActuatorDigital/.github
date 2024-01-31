@@ -10,11 +10,8 @@ assignees: ''
 ## Describe the task
 <!--A clear and concise description of the task.-->
 
-## Area
-<!--What part(s) of the application, the repository, workflows, documentation, etc. are impacted?-->
-
 ## Completed When
-<!-- Create tick boxes for all the sub items required for the task to meet it's purpose, if only 1, then create only 1.-->
+<!-- Create tick boxes for all the sub items required for the task to meet its purpose, if only 1, then create only 1.-->
 - [ ] <!--e.g. Buy Paint -->
 
 ## Additional context

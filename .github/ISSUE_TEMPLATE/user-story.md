@@ -8,18 +8,17 @@ assignees: ''
 ---
 
 <!-- If possible fill out the high level, user story -->
-As a **...<!-- user type -->**,
+As a **USER**,
 
-I want **...<!-- to be able to do something -->**,
+I want **A_THING**,
 
-So that **...<!-- goal to be achieved/desired effect occurs -->**.
+So that **PROFIT**.
 
 ## Description
 <!-- A clear and concise description of the feature, change, or scope of work. -->
 
 ## Acceptance Criteria
 <!-- A list of dot points covering the minimums required for the user story to be acceptable. -->
-
 - ...
 - ...
 
@@ -36,6 +35,6 @@ So that **...<!-- goal to be achieved/desired effect occurs -->**.
 <!-- A relative number to other stories used in calculation of velocity. -->
 
 ### Sub-Tasks
-<!-- Option space to list checkbox sub tasks can converted to tasks/issues when this story is brought into a sprint. -->
+<!-- Option space to list checkbox sub tasks can be converted to tasks/issues when this story is brought into a sprint. -->
 - [ ] <!--e.g. Buy Supplies -->
 - [ ] <!--e.g. Mask out area -->
